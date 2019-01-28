@@ -1,0 +1,33 @@
+{
+  "name": "wxml-miniapp-loader",
+  "description": "wxml loader for webpack",
+  "version": "0.0.0",
+  "main": "lib/index",
+  "files": [
+    "*.md",
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+  },
+  "keywords": [
+    "wxml",
+    "loader",
+    "webpack",
+    "wxapp",
+    "weapp",
+    "mini-program",
+    "wechat",
+    "miniapp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengjiaqi/wxml-miniapp-loader"
+  },
+  "author": "zhengjiaqi <971682460@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengjiaqi/wxml-miniapp-loader/issues"
+  },
+  "homepage": "https://github.com/zhengjiaqi/wxml-miniapp-loader"
+}
